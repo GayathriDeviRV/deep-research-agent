@@ -75,6 +75,8 @@ Type in your query and hit Enter. The agent will:
 - Pass information between agents
 - Output a comprehensive final draft
 
+---
+
 ## Example Usage
 Enter your research question: tell about the silent patient book
 Starting Deep Research for: 'tell about the silent patient book'
