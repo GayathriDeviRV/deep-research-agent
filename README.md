@@ -38,6 +38,18 @@ git clone https://github.com/GayathriDeviRV/deep-research-agent
 cd deep-research-agent
 ```
 
+### Create a Virtual Environment
+
+```bash
+# For macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+# For Windows
+python -m venv venv
+venv\Scripts\activate
+```
+
 ### Configure Environment Variables
 
 Create a .env file in the root directory and add:
