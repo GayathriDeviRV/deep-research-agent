@@ -1,5 +1,5 @@
 # deep-research-agent
-An autonomous AI system that leverages LangGraph and web search to iteratively research and synthesize comprehensive answers to user questions.
+This project implements a sophisticated deep research agent powered by Large Language Models (LLMs) and a web search tool. It leverages LangGraph for orchestration, allowing autonomous agents to collaborate on a research task, and LangChain for interacting with LLMs and tools. The system can iteratively search for information and then synthesize it into a comprehensive answer.
 
 ---
 
@@ -78,8 +78,10 @@ Type in your query and hit Enter. The agent will:
 ---
 
 ## Example Usage
+
 Enter your research question: tell about the silent patient book
 Starting Deep Research for: 'tell about the silent patient book'
+... (intermediate research and drafting steps will be printed here) ...
 
 --- FINAL ANSWER ---
 Final Answer:
