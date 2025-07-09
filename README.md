@@ -98,6 +98,7 @@ Starting Deep Research for: 'tell about the silent patient book'
 ... (intermediate research and drafting steps will be printed here) ...
 
 --- FINAL ANSWER ---
+
 Final Answer:
 
 The Silent Patient is a psychological thriller novel by Alex Michaelides that tells the story of Alicia Berenson, a painter who murders her husband of seven years, Gabriel Berenson, and refuses to speak or explain her actions. The novel follows the story of Theo Faber, a psychotherapist who becomes obsessed with uncovering the truth behind Alicia's silence.
