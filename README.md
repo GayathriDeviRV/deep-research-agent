@@ -92,7 +92,9 @@ Type in your query and hit Enter. The agent will:
 ## Example Usage
 
 Enter your research question: tell about the silent patient book
+
 Starting Deep Research for: 'tell about the silent patient book'
+
 ... (intermediate research and drafting steps will be printed here) ...
 
 --- FINAL ANSWER ---
