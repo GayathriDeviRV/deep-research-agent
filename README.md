@@ -90,7 +90,7 @@ Type in your query and hit Enter. The agent will:
 ---
 
 ## Example Usage
-```bash
+
 Enter your research question: tell about the silent patient book
 Starting Deep Research for: 'tell about the silent patient book'
 ... (intermediate research and drafting steps will be printed here) ...
@@ -105,6 +105,5 @@ The book has received positive reviews for its intelligent character study and m
 The primary narrator of the novel is Theo Faber, a psychotherapist who becomes obsessed with Alicia's case. However, some reviewers have noted that Theo is a faulty character, and that the book portrays him as being good at his job despite his own flaws.
 
 The novel explores themes of trauma, mental illness, and the complexities of human relationships. The author's use of language and plotting has been praised for its ability to keep readers engaged and guessing until the very end.
-```
 
 Overall, The Silent Patient is a gripping and thought-provoking novel that has received widespread critical acclaim for its unique approach to the psychological thriller genre. If you're a fan of psychological thrillers or are looking for a book that will keep you on the edge of your seat, The Silent Patient is definitely worth checking out.
