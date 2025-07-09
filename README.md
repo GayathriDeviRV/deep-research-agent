@@ -46,8 +46,8 @@ Create a .env file in the root directory and add:
 TAVILY_API_KEY="your_tavily_api_key"
 HF_TOKEN="your_huggingface_token"
 ```
-- Get your Tavily API key from [![Tavily](https://www.tavily.com/)
-- Get your Hugging Face token from your [![Hugging Face settings](https://huggingface.co/settings/tokens) with access to meta-llama/Llama-3.1-405B-Instruct.
+- Get your Tavily API key from [Tavily](https://www.tavily.com/)
+- Get your Hugging Face token from your [Hugging Face settings](https://huggingface.co/settings/tokens) with access to meta-llama/Llama-3.1-405B-Instruct.
 
 ### Install Python Dependencies
 
