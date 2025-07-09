@@ -1,0 +1,6 @@
+langchain
+langgraph
+langchain-huggingface
+langchain-tavily
+huggingface_hub
+python-dotenv
